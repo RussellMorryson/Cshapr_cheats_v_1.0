@@ -1,0 +1,15 @@
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.csproj.AssemblyReference.cache
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.AssemblyInfoInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.AssemblyInfo.cs
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.csproj.CoreCompileInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Class/bin/Debug/net7.0/Class
+/workspaces/Cshapr_cheats_v_1.0/Class/bin/Debug/net7.0/Class.deps.json
+/workspaces/Cshapr_cheats_v_1.0/Class/bin/Debug/net7.0/Class.runtimeconfig.json
+/workspaces/Cshapr_cheats_v_1.0/Class/bin/Debug/net7.0/Class.dll
+/workspaces/Cshapr_cheats_v_1.0/Class/bin/Debug/net7.0/Class.pdb
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.dll
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/refint/Class.dll
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.pdb
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/Class.genruntimeconfig.cache
+/workspaces/Cshapr_cheats_v_1.0/Class/obj/Debug/net7.0/ref/Class.dll
