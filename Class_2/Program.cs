@@ -7,13 +7,13 @@ ferrari.PrintPasport();
 chevrolet.PrintPasport();
 // Формирование класса и методов
 class Car
-{
+{    
     public string Name;
     public int HorsePower;
     public int Age;
     public float Maxspeed;
 
-// Сформирован конструктор, в кторый можно отправить переменные
+// Конструктор, в который можно отправить переменные
     public Car(string name, int horsePower, int age, float maxSpeed)
     {
         Name = name;
@@ -21,7 +21,7 @@ class Car
         Age = age;
         Maxspeed = maxSpeed;
     }
-    
+
     // Перегрузка метода Car
     // это необходимо в случае если значения не направленны в конструктор, 
     //то будут выведены стандартные значения null
