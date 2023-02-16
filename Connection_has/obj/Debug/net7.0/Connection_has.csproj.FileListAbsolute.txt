@@ -1,0 +1,15 @@
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/bin/Debug/net7.0/Connection_has
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/bin/Debug/net7.0/Connection_has.deps.json
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/bin/Debug/net7.0/Connection_has.runtimeconfig.json
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/bin/Debug/net7.0/Connection_has.dll
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/bin/Debug/net7.0/Connection_has.pdb
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.csproj.AssemblyReference.cache
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.AssemblyInfoInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.AssemblyInfo.cs
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.csproj.CoreCompileInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.dll
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/refint/Connection_has.dll
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.pdb
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/Connection_has.genruntimeconfig.cache
+/workspaces/Cshapr_cheats_v_1.0/Connection_has/obj/Debug/net7.0/ref/Connection_has.dll
