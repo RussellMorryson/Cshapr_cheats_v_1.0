@@ -1,0 +1,15 @@
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.csproj.AssemblyReference.cache
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.AssemblyInfoInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.AssemblyInfo.cs
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.csproj.CoreCompileInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Cafe/bin/Debug/net7.0/Cafe
+/workspaces/Cshapr_cheats_v_1.0/Cafe/bin/Debug/net7.0/Cafe.deps.json
+/workspaces/Cshapr_cheats_v_1.0/Cafe/bin/Debug/net7.0/Cafe.runtimeconfig.json
+/workspaces/Cshapr_cheats_v_1.0/Cafe/bin/Debug/net7.0/Cafe.dll
+/workspaces/Cshapr_cheats_v_1.0/Cafe/bin/Debug/net7.0/Cafe.pdb
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.dll
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/refint/Cafe.dll
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.pdb
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/Cafe.genruntimeconfig.cache
+/workspaces/Cshapr_cheats_v_1.0/Cafe/obj/Debug/net7.0/ref/Cafe.dll
