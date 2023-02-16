@@ -1,0 +1,15 @@
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.csproj.AssemblyReference.cache
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.AssemblyInfoInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.AssemblyInfo.cs
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.csproj.CoreCompileInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/bin/Debug/net7.0/Inheritance_is_a
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/bin/Debug/net7.0/Inheritance_is_a.deps.json
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/bin/Debug/net7.0/Inheritance_is_a.runtimeconfig.json
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/bin/Debug/net7.0/Inheritance_is_a.dll
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/bin/Debug/net7.0/Inheritance_is_a.pdb
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.dll
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/refint/Inheritance_is_a.dll
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.pdb
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/Inheritance_is_a.genruntimeconfig.cache
+/workspaces/Cshapr_cheats_v_1.0/Inheritance_is_a/obj/Debug/net7.0/ref/Inheritance_is_a.dll
