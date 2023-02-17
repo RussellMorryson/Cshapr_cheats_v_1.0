@@ -1,0 +1,15 @@
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.csproj.AssemblyReference.cache
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.AssemblyInfoInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.AssemblyInfo.cs
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.csproj.CoreCompileInputs.cache
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/bin/Debug/net7.0/Incapsulation
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/bin/Debug/net7.0/Incapsulation.deps.json
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/bin/Debug/net7.0/Incapsulation.runtimeconfig.json
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/bin/Debug/net7.0/Incapsulation.dll
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/bin/Debug/net7.0/Incapsulation.pdb
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.dll
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/refint/Incapsulation.dll
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.pdb
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/Incapsulation.genruntimeconfig.cache
+/workspaces/Cshapr_cheats_v_1.0/Incapsulation/obj/Debug/net7.0/ref/Incapsulation.dll
